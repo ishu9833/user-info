@@ -1,0 +1,21 @@
+
+.userStyle{
+    width: 180%;
+    border: 1px solid lightBlue;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    text-align: left;
+}
+.userStyle button{
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(64, 64, 177);
+    border: 1px solid none;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    direction: unset;
+    box-shadow: unset;
+}

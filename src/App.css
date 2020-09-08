@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  display: flex;
+}
+.user-count{
+  width: 10%;
+  margin: 5px;
+  padding: 10px;
+  border-left: 1px solid lightgray;
 }
 
 .App-logo {
